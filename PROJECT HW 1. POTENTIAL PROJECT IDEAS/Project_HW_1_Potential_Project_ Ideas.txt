@@ -1,0 +1,29 @@
+
+PROJECT HOMEWORK 1
+Author: Oxana Howard
+Date: Feb. 14 2023
+---------------------
+
+
+Potential Project Ideas.
+
+Four groups of topics:
+
+1) Health.
+Data base related to exercises (with images or gifts of the exercise, description, name, calories lose).
+Data base related to nutritions(recipe with contents, calories )
+
+2) Video and audio social media platforms.
+  Data base examples:
+      Netflix: https://www.kaggle.com/datasets/shivamb/netflix-shows
+      Youtube: https://www.kaggle.com/datasets/datasnaek/youtube-new
+      Spotify: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+
+3) Crime.
+  Data base examples:
+      United States Crime Rates By City Population: https://www.kaggle.com/datasets/kabhishm/united-states-crime-rates-by-city-population
+
+4) Sales tracking:
+   Data base examples:
+        Walmart Sales Forecast: https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
+        Amazon Sales Dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
