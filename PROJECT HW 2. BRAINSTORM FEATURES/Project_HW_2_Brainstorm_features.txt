@@ -1,0 +1,16 @@
+PROJECT HOMEWORK 2
+Author: Oxana Howard
+Date: Feb. 22 2023
+---------------------
+
+
+Potential Features of the Project.
+
+- The web application will allow users to search for recipes based on ingredients, 
+dietary restrictions, and cuisine type using an external API. 
+- User will be able to use user authentication and save their favorite recipes,
+  generate grocery lists, and a meal planner to plan meals for the week. 
+- The back-end will use Spring Boot to build a RESTful API that interacts with the external recipe API and provides 
+the front-end with a standardized JSON response.
+- The front-end will be built using React for login-in/login-out, browsing search results 
+and viewing recipe details.

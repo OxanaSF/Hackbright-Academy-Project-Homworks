@@ -26,4 +26,4 @@ Data base related to nutritions(recipe with contents, calories )
 4) Sales tracking:
    Data base examples:
         Walmart Sales Forecast: https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
-        Amazon Sales Dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+        Amazon Sales Dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset 
