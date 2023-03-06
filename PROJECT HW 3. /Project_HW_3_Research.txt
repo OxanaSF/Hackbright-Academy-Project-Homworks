@@ -1,0 +1,37 @@
+PROJECT HOMEWORK 3
+Author: Oxana Howard
+Date: Mar. 3 2023
+---------------------
+
+
+- Data I need to collect from the user:
+    > Login credentials (e.g., username and password).
+    > Dietary restrictions.
+    > Preferred cuisine types.
+    > Favorite recipes.
+    > Grocery list.
+    > Individual menu.
+
+- Data I need to collect from an external source:
+    > Recipe information (e.g., name, ingredients, instructions, nutritional information).
+    > Cuisine type information.
+    > Ingredient information.
+
+I might use the following third-party library, framework, or HTTP API:
+    > Java Spring Boot framework.
+    > React.js framework.
+    > React Router library.
+    > Redux.
+
+    
+In order to conduct research on external APIs, I will be exploring a variety of 
+options and selecting the one that is best suited for my project. The APIs that 
+I will be considering include Spoonacular, MyCookbook.io, Tasty, 
+Edamam Recipe Search & Diet, Edamam Nutrition Analysis, Webknox Recipe, 
+Zestful Recipe & Ingredient Analysis, Yummly, and TheMealDB.
+By evaluating the features and capabilities of each API, I will be able 
+to choose the one that offers the most appropriate functionality for my needs.
+
+Static data:
+    > User account information.
+    > Saved favorite recipes.
